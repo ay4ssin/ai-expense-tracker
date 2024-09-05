@@ -1,0 +1,3 @@
+this goes in /app/(routes)
+
+need to figure out how to display it on the homepage and how it helps our tracker.
