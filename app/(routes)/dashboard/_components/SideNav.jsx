@@ -26,7 +26,7 @@ function SideNav() {
             path:'/dashboard/expenses'
 
         },
-        {
+        /* {
             id:4,
             name:'Incomes',
             icon:CircleDollarSign,
@@ -39,7 +39,7 @@ function SideNav() {
             icon:ShieldCheck,
             path:'/dashboard/upgrade'
 
-        }
+        }*/
     ]
     const path=usePathname();
 

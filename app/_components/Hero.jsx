@@ -2,6 +2,7 @@ import React from 'react'
 import Image from "next/image";
 
 function Hero() {
+  
   return (
     <section className="flex items-center flex-col">
   <div className="mx-auto max-w-screen-xl px-4 py-32 
@@ -35,7 +36,7 @@ function Hero() {
   <Image src='/dashboard2.png' alt='dashboard'
   width={1000}
   height={700}
-  className='-mt-9 rounded-xl border-2'
+  className='-mt-9 mb-8 rounded-xl border-2'
   />
 </section>
   )
