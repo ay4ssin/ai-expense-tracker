@@ -16,7 +16,5 @@ Coin Kitty is crafted to help students take control of their spending and make i
 
 ## Demo
 
-[Project Presentation Link]()
-
-[Youtube Demo Link]()
+[Youtube Demo Link](https://youtu.be/7J_6kWnyjt4)
 
